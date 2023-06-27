@@ -1,0 +1,26 @@
+git branch branch-name
+git checkout branch-name
+git checkout -b branch-name
+
+ssh-keygen
+
+git remote -v
+git remote set-url origin <https://github.com/DGSudheer/java_beginner>
+
+git init
+git status
+git mv sorce_file dest_file
+git rm file-name
+
+git add {[.] / [filename]}
+git restore --staged filename
+git restore filename
+
+git fetch branch-name
+git pull origin branch-name
+git push origin branch-name
+git branch --delete branch-name
+git branch -D branch-name
+
+git log branch-name
+history
