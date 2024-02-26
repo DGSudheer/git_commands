@@ -6,9 +6,11 @@ References:
 
 
 # Add Projects from local to repo
+echo "# Hello World!" >> README.md
 1. git init
 2. git add -A
 3. git commit -m 'Added github'
-4. git remote add origin https://github.com/DGSudheer/js.git
+4. git branch -M main
+5. git remote add origin https://github.com/<userName>/<repoName>.git
 // (git remote remove origin)
-5. git push -u origin main
+6. git push -u origin main
