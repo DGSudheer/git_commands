@@ -6,9 +6,9 @@ References:
 
 
 # Add Projects from local to repo
-git init
-git add -A
-git commit -m 'Added github'
-git remote add origin https://github.com/DGSudheer/js.git
+1. git init
+2. git add -A
+3. git commit -m 'Added github'
+4. git remote add origin https://github.com/DGSudheer/js.git
 // (git remote remove origin)
-git push -u origin main
+5. git push -u origin main
